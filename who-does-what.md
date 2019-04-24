@@ -6,15 +6,15 @@ The executive board is formed by the founders of Lang.ai.
 
 ### CEO
 
-Jorge Peñalva is our CEO. He is responsible for setting the overall direction of the company and leading the US. Works closely with sales for customer input and product/data science for product and research direction.
+**Jorge Peñalva** is our CEO. He is responsible for setting the overall direction of the company and leading the US. Works closely with sales for customer input and product/data science for product and research direction.
 
 ### CTO
 
-Enrique Fueyo is our CTO and runs technology. He is responsible for setting the technical direction, as well as serving as the connection between the data science and the engineering team.
+**Enrique Fueyo** is our CTO and runs technology. He is responsible for setting the technical direction, as well as serving as the connection between the data science and the engineering team.
 
 ### CSO
 
-Borja González is our third co-founder and CEO of Séntisis. He leads Sales strategy and participates actively in sales in Spain.
+**Borja González** is our third co-founder and CEO of Séntisis. He leads Sales strategy and participates actively in sales in Spain.
 
 ## Founding employees
 
