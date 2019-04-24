@@ -53,7 +53,7 @@ How the team sees that we work under this value:
 
 > Feeling confident while working in complex projects where you rely on multiple people working on their own areas
 
-> Trust what other teams work and help each other to provide solutions in complex situations”
+> Trust what other teams work and help each other to provide solutions in complex situations
 
 ### 2. Transparency & Communication
 
