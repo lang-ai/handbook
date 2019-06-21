@@ -16,19 +16,15 @@ Although is not mandatory to do it every day, it’s recommended to share your p
 
 ### Weekly
 
-Each Monday, everyone from the product and data science teams write in shared documents their intentions for the starting week.
+#### All-hands meeting
 
-The Product team gathers in a 20-min video call to discuss on the blockers and progress for the monthly objectives, while the Data Science join a 45-min video call focused on the ongoing tasks.
+Each Monday, everyone joins an all-hands meeting where each team shares the objectives for their week. We also briefly talk about new hires, clients, and product updates. The sales team also gives an update about the most interesting clients meeting from the previous and the next week. All the information along with the monthly objectives are centralized in a shared document.
 
-Sales team meets on Friday to discuss the status of opportunities and challenges found.
+The main objective is to keep the team aligned around the goals, as well as to maintain transparency on how the company is doing.
 
-### Monthly
+#### Team-specific meeting
 
-The last week of each month, each team lead shares the monthly objectives. They also share updates on how the previous iteration went, as well as insights and the milestones we have reached.
-
-Once all the information is set, our CEO Jorge hosts a 30-min All Hands meeting where he shares key updates. We also share product and revenue updates and then pass to a Q&A time.
-
-The objective of the monthly meeting is to keep the team aligned around the goals, as well as to maintain transparency on how the company is doing.
+The Product team gathers in a 20-min video call to discuss on the blockers and progress for the monthly objectives, while the Data Science team gathers a 45-min video call focused on the ongoing tasks. The Sales team meets on Friday to discuss the status of opportunities and challenges found.
 
 ## Health Monitor
 
