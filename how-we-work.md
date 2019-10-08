@@ -2,9 +2,14 @@
 
 ## Cycles
 
-We work in cycles of one month. This way we constraint ourselves to have shippable releases in each iteration. It doesn’t mean that every feature will take one month of work, but it helps us reduce the scope or divide a project into pieces of work that can be presented.
+We work in cycles of two weeks. This way we constraint ourselves to have shippable releases in each iteration. It doesn’t mean that every feature will take two weeks of work, but it helps us reduce the scope or divide a project into pieces of work that can be presented.
 
-The product team starts by making an initial selection of the work we will be tackling in the next iteration. This proposal is then shared with the rest of the team and iterated until the specifications and scopes are well defined. The development team involvement is especially relevant here.
+In every cycle, there are two tracks of work happening at the same time: the development team is working in shipping the defined features, while the PM and designer are shaping the upcoming work. 
+
+Once the cycle is completed, there is cool-down period where the product team works closely to explore and get aligned on the proposed work for the next iteration. 
+
+Every two iterations we run our "Thinking Week" in order to compensate the lack of attention to the overall health of the product that we may have been going through. We want to make sure that everyone has time to experiment and improve what is already done.
+
 
 ## Communication
 
@@ -18,13 +23,13 @@ Although is not mandatory to do it every day, it’s recommended to share your p
 
 #### All-hands meeting
 
-Each Monday, everyone joins an all-hands meeting where each team shares the objectives for their week. We also briefly talk about new hires, clients, and product updates. The sales team also gives an update about the most interesting clients meeting from the previous and the next week. All the information along with the monthly objectives are centralized in a shared document.
+Each Monday, everyone joins an all-hands meeting where each team shares their main updates and problems for their week. We also briefly talk about new hires, clients, and product updates. The sales team also gives an update about the most interesting clients meeting from the previous and the next week. All the information along with the monthly objectives are centralized in a shared document.
 
 The main objective is to keep the team aligned around the goals, as well as to maintain transparency on how the company is doing.
 
 #### Team-specific meeting
 
-The Product team gathers in a 20-min video call to discuss on the blockers and progress for the monthly objectives, while the Data Science team gathers a 45-min video call focused on the ongoing tasks. The Sales team meets on Friday to discuss the status of opportunities and challenges found.
+The Product team gathers in a 40-min video call to discuss on the blockers and progress for the current iteration, while the Data Science team gathers a 45-min video call focused on the ongoing tasks. The Sales team meets on Friday to discuss the status of opportunities and challenges found.
 
 ## Health Monitor
 
