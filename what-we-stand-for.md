@@ -16,7 +16,7 @@ We sell things we have not built yet: we believe great products are constantly i
 
 We build things we won’t sell yet: we believe in investing in the problems future will hold by spending time with research. We're here for the long run, not for a quick win.
 
-### Results oriented
+### Results-oriented
 
 We are cashflow-driven: we believe in the power of a company that makes money and the value of clients that pay. Work is paid.
 
