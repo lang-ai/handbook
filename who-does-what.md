@@ -42,8 +42,6 @@ They use Intercom and Mixpanel to give customer support, test, and learn how we 
 
 **Enrique Fueyo** leads the development team. One of his responsibilities is to make sure that all the work from the Data Science team is ready to be shipped in our products. This includes ensuring the heavy-load processes perform as fast as possible, as well as managing dependencies between teams.
 
-**Alex Eiras** is our full-stack developer that takes care of the internals of our Enterprise product. He makes sure that everything is performant and resilient.
-
 **David Álvarez** is our front-end developer that implements and improves our product interfaces, making sure that our users are delighted while working.
 
 The engineering team works with the following tech stack:
