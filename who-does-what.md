@@ -55,7 +55,7 @@ The engineering team works with the following tech stack:
 - React
 - GraphQL
 
-Their daily workflow includes using platforms like AWS, Sentry (for error tracking) and CircleCI, where we have our automation pipeline to test, build and release our Cloud and Enterprise platforms. We also use Replicated to manage release channels and give our users a seamless update experience. It also helps us have more detailed information in case they need technical support.
+Their daily workflow includes using platforms like AWS, Sentry (for error tracking) and CircleCI, where we have our automation pipeline to test -using unit tests, Cypress and Percy-, build and release our Cloud and Enterprise platforms. We also use Replicated to manage release channels and give our users a seamless update experience. It also helps us have more detailed information in case they need technical support.
 
 ## Sales
 
