@@ -28,7 +28,7 @@ The Data Science team relies on Python as the main programming language and plat
 
 ## Product
 
-The product team includes multiple people from product management, product design and development. Their work is centralized in GitHub, as it’s used for both working with code and user stories and planning. Some of the tools
+The product team includes multiple people from product management, product design and development.
 
 ### PM & Design
 
