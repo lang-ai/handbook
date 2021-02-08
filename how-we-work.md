@@ -37,7 +37,7 @@ We run our [Health Monitor](https://www.atlassian.com/team-playbook/health-monit
 
 ## Asynchronously
 
-Lang.ai is a remote-friendly company. This means that although we are not fully remote, our culture is closer to what a remote-only company aims for. This includes the following principles:
+Lang.ai is currently a fully-remote company. We keep the following principles:
 
 - Flexible working hours over set working hours.
 - Writing down and recording knowledge over oral explanations.
