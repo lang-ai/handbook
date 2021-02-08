@@ -22,7 +22,7 @@ The employees that were essential to start Lang.ai received an extra amount of s
 
 ## Data Science
 
-**Henry Anaya** leads the Data Science team and works with **Ángel Castellanos** and **Alberto Ezpondaburu**. They are a group of NLP experts in charge of the research and innovation in Lang.ai. The team is focused on the development of unsupervised AI-based technologies for the language understanding in different fields such as: customer service, chatbot development, unsupervised text classification or survey analysis, among others.
+**Henry Anaya** leads the Data Science team and works with **Alberto Ezpondaburu**. They are a group of NLP experts in charge of the research and innovation in Lang.ai. The team is focused on the development of unsupervised AI-based technologies for the language understanding in different fields such as: customer service, chatbot development, unsupervised text classification or survey analysis, among others.
 
 The Data Science team relies on Python as the main programming language and platform to work on.
 
