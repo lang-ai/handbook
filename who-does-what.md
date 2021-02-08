@@ -61,7 +61,7 @@ Their daily workflow includes using platforms like AWS, Sentry (for error tracki
 
 **Eduardo Vicente** is our Sales Manager in Spain. He manages the sales processes along with Jorge and Borja and helps to onboard our customers so they can start automating their processes in no time.
 
-We use Zoho CRM and the rest of Zoho suite for Sales and process management.
+We use Hubspot for Sales and process management.
 
 ## HR & Operations
 
