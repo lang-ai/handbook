@@ -14,7 +14,13 @@ The executive board is formed by the founders of Lang.ai.
 
 ### CSO
 
-**Borja González** is our third co-founder and CEO of Séntisis. He leads Sales strategy and participates actively in sales in Spain.
+**Borja González** is one of the co-founders and CEO of Séntisis. He leads Sales strategy and participates actively in sales in Spain.
+
+### COO
+
+**Basil Polsonetti** is our COO. He works closely with the CEO to design an implement business strategies as well as leading sales development.
+
+
 
 ## Founding employees
 
