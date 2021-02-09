@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to the team! Once you join the company, you will be assigned a buddy that will help you setup everything from your computer and the accounts you need to start. Most likely, Estefanía and Enrique will also help you to have all the paperwork and accounts ready during the first days.
+Welcome to the team! Once you join the company, you will be assigned a buddy that will help you setup everything from your computer and the accounts you need to start. Most likely, Estefanía and Enrique will also help you to have all the paperwork and accounts ready during the first days. Fernando will help you complete your security onboarding process, including the security training, disk encryption, and password manager.
 
 You will need to setup Slack and the Google suite as they are the basic tools used at the company.
 
