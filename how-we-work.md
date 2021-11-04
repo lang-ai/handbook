@@ -6,7 +6,7 @@ We work in cycles of three weeks. This way we constraint ourselves to have shipp
 
 In every cycle, there are two tracks of work happening at the same time: the development team is working in shipping the defined features, while the PM and designer are shaping the upcoming work. 
 
-When we work on any task we apply the boy scout rule "always leave the code you are editing a little better than you found it" in a continuous effort to improve the overall quality while we allow ourselves to take concious technical debt when it is needed.
+When we work on any task we apply the boy scout rule "always leave the code you are editing a little better than you found it" in a continuous effort to improve the overall quality while we allow ourselves to take conscious technical debt when it is needed.
 
 Every week a team member rotates to be on call. During that week, he or she will be the first line to support incoming issues (this could range from understanding what is happening and notifying the "expert" to completely solving it or deprioritizing it an including the description as bug to be included in the backlog). When there are no incoming issues to work on, whoever is on call will be working on transversal improvements of the infrastructure or the internal tools.
 
