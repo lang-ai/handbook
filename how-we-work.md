@@ -2,13 +2,13 @@
 
 ## Cycles
 
-We work in cycles of two weeks. This way we constraint ourselves to have shippable releases in each iteration. It doesn’t mean that every feature will take two weeks of work, but it helps us reduce the scope or divide a project into pieces of work that can be presented.
+We work in cycles of three weeks. This way we constraint ourselves to have shippable releases in each iteration. It doesn’t mean that every feature will take three weeks of work, but it helps us reduce the scope or divide a project into pieces of work that can be presented.
 
 In every cycle, there are two tracks of work happening at the same time: the development team is working in shipping the defined features, while the PM and designer are shaping the upcoming work. 
 
-Once the cycle is completed, there is cool-down period where the product team works closely to explore and get aligned on the proposed work for the next iteration. 
+When we work on any task we apply the boy scout rule "always leave the code you are editing a little better than you found it" in a continuous effort to improve the overall quality while we allow ourselves to take concious technical debt when it is needed.
 
-Every two iterations we run our "Thinking Week" in order to compensate the lack of attention to the overall health of the product that we may have been going through. We want to make sure that everyone has time to experiment and improve what is already done.
+Every week a team member rotates to be on call. During that week, he or she will be the first line to support incoming issues (this could range from understanding what is happening and notifying the "expert" to completely solving it or deprioritizing it an including the description as bug to be included in the backlog). When there are no incoming issues to work on, whoever is on call will be working on transversal improvements of the infrastructure or the internal tools.
 
 
 ## Communication
