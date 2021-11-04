@@ -2,7 +2,7 @@
 
 ## Cycles
 
-We work in cycles of two weeks. This way we constraint ourselves to have shippable releases in each iteration. It doesn’t mean that every feature will take two weeks of work, but it helps us reduce the scope or divide a project into pieces of work that can be presented.
+We work in cycles of three weeks. This way we constraint ourselves to have shippable releases in each iteration. It doesn’t mean that every feature will take two weeks of work, but it helps us reduce the scope or divide a project into pieces of work that can be presented.
 
 In every cycle, there are two tracks of work happening at the same time: the development team is working in shipping the defined features, while the PM and designer are shaping the upcoming work. 
 
